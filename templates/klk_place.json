@@ -4,10 +4,10 @@
     {
       "name": "klk",
       "sources": [
-        "https://raw.githubusercontent.com/DmitryJDS/klk_place_2023/main/image/klk.png"
+        "https://raw.githubusercontent.com/DmitryJDS/klk_place_2023/main/image/klk_32x32.png"
       ],
-      "x": 0,
-      "y": 0
+      "x": 1001,
+      "y": -81
     }
   ],
   "whitelist": [],
